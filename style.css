@@ -55,7 +55,7 @@ nav ul {
 
 nav ul li {
   color: white;
-  padding: 22px 40px;
+  padding: 11px 20px;
   background-color: #333333;
   display: block;
 }
@@ -334,7 +334,7 @@ input[type="submit"]:hover {
   background-color: #222222;
   color: white;
   text-align: center;
-  padding: 24px;
+  padding: 12px;
 }
 
 /* Tablets */
